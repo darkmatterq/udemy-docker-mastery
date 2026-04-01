@@ -43,4 +43,5 @@ This repository is for use in my Udemy Courses "[Docker Mastery](https://www.ude
 27. Dockerfile and Compose File Reviews
 28. Extra's, Common Questions, and Resources
 29: darkmatterq 
+30: hello everyone 
 Feel free to create issues or PRs if you find a problem with examples in this repository!
